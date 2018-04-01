@@ -29,7 +29,9 @@ Work experience
 
 Publication
 ======
-* Davidson, J. and Li, X. (2016) Strict stationarity, persistence and volatility forecasting in ARCH(∞) processes. Journal of Empirical Finance. 38(B):534-547.
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Working Papers
 ======
