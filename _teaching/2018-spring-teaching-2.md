@@ -1,9 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2018-spring-teaching-2
 date: 2015-01-01
 location: "City, Country"
 ---
