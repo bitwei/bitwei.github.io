@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2018-spring-teaching-2
 venue: "CUEB"
-date: 2015-01-01
+date: 2018-04-02
 ---
 
 This paper is about the number 1. The number 2 is left for future work.
